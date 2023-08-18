@@ -1,0 +1,48 @@
+.imagem-fundo{
+    background-image: url(../img/sanduiche.jpg);
+    height: 150px;
+    display: block;
+    margin: auto;
+    border:2px solid black;
+    
+}
+.titulo{
+    color: black;
+    font-family: sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+*{
+    background-color: #919974;
+}
+
+.secao{
+    margin: 10px;
+    border: 10px;
+}
+
+.secaomodo{
+    margin: 10px;
+    border: 10px;
+}
+
+.subtitulo{
+    margin: 10px;
+    border: 10px;
+}
+
+.desenvolvido{
+    margin: 10px;
+    border: 10px;
+}
+
+.informacoes{
+    margin: 10px;
+    border: 10px;
+}
+
+#paragrafo{
+    margin: 10px;
+    border: 10px;
+}
